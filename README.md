@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me:<br />
 Hello, My Name is Gaurav. I'm Sr Web Developer with 6+ years of working in PHP and Angular Applications
 
 ## 🌐 Socials:
