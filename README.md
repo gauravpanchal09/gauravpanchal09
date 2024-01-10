@@ -1,3 +1,5 @@
+💫 About Me:
+Hello, My Name is Gaurav. I'm Sr Web Developer with 6+ years of working in PHP and Angular Applications
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gpg143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/panchal4402?igsh=dHBsazkxcXY1aWhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-panchal-11a1a1b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
