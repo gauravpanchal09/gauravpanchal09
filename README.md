@@ -1,5 +1,6 @@
 💫 About Me:<br />
-Hello, My Name is Gaurav. I'm Senior Software Developer with 9 years of experience working in PHP and Angular Applications
+Hello, I am a senior PHP developer with over 9 years of extensive experience in designing and developing various types of websites.
+I have experience with several frameworks like CodeIgniter, Laravel, and CakePHP, as well as Angular, Vue.js, JavaScript, and WordPress.
 
 
 ## 🌐 Socials:
