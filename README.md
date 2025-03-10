@@ -1,5 +1,5 @@
 💫 About Me:<br />
-Hello, My Name is Gaurav. I'm Sr Web Developer with 6+ years of working in PHP and Angular Applications
+Hello, My Name is Gaurav. I'm Senior Software Developer with 9 years of experience working in PHP and Angular Applications
 
 
 ## 🌐 Socials:
